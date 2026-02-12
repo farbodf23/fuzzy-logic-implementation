@@ -76,17 +76,18 @@ The GUI consists of two main tabs:
 ## 📊 Membership Function Visualizations
 
 ### 🚗 Cars Membership Function
-<img width="500" alt="Cars Membership Function" src="[https://github.com/user-attachments/assets/279743a0-892d-48ea-b183-dd92e67c3e](https://github.com/user-attachments/assets/279743a0-892d-48ea-b183-dd92c8e67c3e)" />
+<img width="500" alt="Cars Membership Function" src="https://github.com/user-attachments/assets/279743a0-892d-48ea-b183-dd92c8e67c3e" />
 
 ---
 
 ### ⏱️ Waiting Time Membership Function
-<img width="500" alt="Waiting Time Membership Function" src="[https://github.com/user-attachments/assets/e7945a4e-cf78-4f37-8b3d-d2d0ca879517](https://github.com/user-attachments/assets/75c48e89-bea5-4a70-95dc-1f01b805afd1)" />
+<img width="500" alt="Waiting Time Membership Function" src="https://github.com/user-attachments/assets/e7945a4e-cf78-4f37-8b3d-d2d0ca879517" />
 
 ---
 
 ### 🚦 Green Time Membership Function
-<img width=500" alt="Green Time Membership Function" src="https://github.com/user-attachments/assets/75c48e89-bea5-4a70-95dc-1f01b805afd1" />
+<img width="500" alt="Green Time Membership Function" src="https://github.com/user-attachments/assets/75c48e89-bea5-4a70-95dc-1f01b805afd1" />
+
 
 
 
