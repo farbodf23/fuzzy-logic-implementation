@@ -29,9 +29,25 @@ A graphical user interface (GUI) allows users to input traffic conditions and vi
 
 ## 📐 Fuzzy Rule Base (Examples)
 
-- IF cars are **Low** AND waiting time is **Short** → green time is **Very Short**
-- IF cars are **Medium** AND waiting time is **Long** → green time is **Long**
-- IF cars are **High** AND waiting time is **Long** → green time is **Very Long**
+- IF cars are Low AND waiting time is Short → green time is Very Short
+
+- IF cars are Low AND waiting time is Medium → green time is Short
+
+- IF cars are Low AND waiting time is Long → green time is Medium
+
+- IF cars are Medium AND waiting time is Short → green time is Short
+
+- IF cars are Medium AND waiting time is Medium → green time is Medium
+
+- IF cars are Medium AND waiting time is Long → green time is Long
+
+- IF cars are High AND waiting time is Short → green time is Medium
+
+- IF cars are High AND waiting time is Medium → green time is Long
+
+- IF cars are High AND waiting time is Long → green time is Very Long
+
+✅ A total of 9 fuzzy rules cover all possible combinations of traffic conditions.
 
 A total of **9 fuzzy rules** cover all combinations of traffic conditions.
 
