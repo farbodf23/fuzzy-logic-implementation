@@ -27,7 +27,7 @@ A graphical user interface (GUI) allows users to input traffic conditions and vi
 
 ---
 
-## 📐 Fuzzy Rule Base (Examples)
+## 📐 Fuzzy Rule Base 
 
 - IF cars are Low AND waiting time is Short → green time is Very Short
 
